@@ -18,11 +18,3 @@ Built with a clean frontend and a backend to store user details and manage login
 **Frontend**
 - HTML / CSS (Tailwind)
 - JavaScript
-
-
-
-
-
-## 📸 Screenshots
-
-> Add screenshots of your UI here
